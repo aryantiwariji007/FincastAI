@@ -2,11 +2,11 @@
 FincastAI is an end-to-end AI solution for financial forecasting and analysis. It uses machine learning and time series models to predict key financial metrics like revenue, profit, and stock movement, helping businesses make smarter financial decisions.
 
 🚀 Features:
-📈 Time Series Forecasting (ARIMA, LSTM, Prophet)
+📈 Time Series Forecasting ( LSTM)
 
 🧠 ML-Based Financial Predictions
 
-📊 Interactive Dashboards (Streamlit/Plotly/Tableau)
+📊 Interactive Dashboards (Streamlit/Plotly)
 
 ⚠️ Anomaly Detection in financial data
 
