@@ -9,7 +9,7 @@ import streamlit as st
 def run_stock_app():
     st.subheader("📈 Stock Market Predictor")
 
-    model = load_model(r'C:\Users\ASUS\OneDrive\Desktop\Stock market Prediction\Stock Predictions Model.keras')
+    model = load_model(r'Stock Predictions Model.keras')
   
     st.subheader("Sample Companies and Their Stock Symbols")
     st.markdown("Here are some sample companies and their corresponding stock symbols you can use:")
