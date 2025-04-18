@@ -7,7 +7,7 @@ import streamlit as st
 def run_bitcoin_app():
     st.subheader('💰Bitcoin Price Predictor')
     #load Model 
-    model = load_model(r'C:\Users\ASUS\OneDrive\Desktop\Bitcoin Prediction App\Bitcoin_Price_Prediction.keras')
+    model = load_model(r'Bitcoin_Price_Prediction.keras')
 
     
     st.subheader('Bitcoin Price Data')
